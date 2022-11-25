@@ -1,4 +1,4 @@
-package ru.skillfax.project_01.lesson_01;
+package ru.skillfax.project_02.lesson_01;
 
 public class Main
 {
